@@ -1,0 +1,45 @@
+[
+  
+    {
+      "nombre": "Fútbol",
+      "precio": 50
+    },
+    {
+      "nombre": "Baloncesto",
+      "precio": 40
+    },
+    {
+      "nombre": "Tenis",
+      "precio": 30
+    },
+    {
+      "nombre": "Natación",
+      "precio": 25
+    },
+    {
+      "nombre": "Atletismo",
+      "precio": 35
+    },
+    {
+      "nombre": "Voleibol",
+      "precio": 45
+    },
+    {
+      "nombre": "Golf",
+      "precio": 55
+    },
+    {
+      "nombre": "Rugby",
+      "precio": 45
+    },
+    {
+      "nombre": "Hockey sobre hielo",
+      "precio": 50
+    },
+    {
+      "nombre": "Ciclismo",
+      "precio": 40
+    }
+
+  
+]
